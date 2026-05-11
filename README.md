@@ -67,5 +67,14 @@ Business Insight Generation# Pizza-Sales-Analysis-Dashboard-Power-BI-Project
 
 <img width="1283" height="787" alt="Screenshot 2026-05-11 130415" src="https://github.com/user-attachments/assets/9df7a54a-4949-4a82-b73f-cf99a8f0cef0" />
 
+
+
+
+
+
+
+
+
+
 <img width="1275" height="783" alt="Screenshot 2026-05-11 130437" src="https://github.com/user-attachments/assets/5341ee88-f54c-492e-878f-ba68656e814b" />
 
